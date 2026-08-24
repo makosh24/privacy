@@ -1,0 +1,184 @@
+# Саясат құпиялылығы / Политика конфиденциальности / Privacy Policy
+
+**Алшы** (`kz.alshy.games`)
+
+Күшіне енген күні / Дата вступления в силу / Effective date: **24 тамыз 2026**
+
+Осы құжат Play Console және пайдаланушылар үшін ашық саясат болып табылады.
+
+- [Қазақша](#қазақша)
+- [Русский](#русский)
+- [English](#english)
+
+Play Console URL (GitHub Pages қосылғаннан кейін):  
+https://makosh24.github.io/alshyApp/privacy-policy.html
+
+---
+
+## Қазақша
+
+### 1. Кімбіз
+
+«Алшы» — қазақ тіліндегі үйірме және оқу ойындарының қосымшасы (білім тесті, сөздер, санау, әріптер, шайқас, «Кім шпион?», мафия).
+
+Оператор: қосымшаның әзірлеушісі. Байланыс — GitHub Issues: [https://github.com/makosh24/alshyApp/issues](https://github.com/makosh24/alshyApp/issues).
+
+### 2. Қысқаша
+
+Біз **есептік жазба**, **жарнама**, **аналитика** және **бұлтты серверге** жеке дерек жібермейміз. Ойын барысы құрылғыда сақталады. Көп ойыншы режимі тек **бір Wi-Fi желісінде**, сіздің әрекетіңізбен жұмыс істейді.
+
+### 3. Қандай дерек сақталады (тек құрылғыда)
+
+| Дерек | Не үшін |
+|---|---|
+| Ойыншы аты (егер енгізсеңіз) | Wi-Fi лоббиде көрсету |
+| Нұсқаулықты көрдіңіз бе | Қайта көрсетпеу |
+| Өз сөздеріңіз және (қаласаңыз) дыбыс жазбасы | «Сөздер» / «Сөздер жаңа нұсқа» |
+| Кампания прогресі (ескі сақтау қалса) | Ойын күйі |
+
+Бұл деректер біздің серверге жіберілмейді.
+
+### 4. Жергілікті желі (Wi-Fi)
+
+«Мен ойынды бастаймын» немесе QR арқылы достар қосылғанда құрылғылар **сол үй Wi-Fi-ында** ойын күйін, ойыншы атын және раунд деректерін алмасады. Интернеттегі аккаунт сервері жоқ. Теледидарға шығару — жергілікті бет `http://alshy.local:8080`.
+
+### 5. Рұқсаттар
+
+- **Микрофон** — тек «Сөздер жаңа нұсқада» өз сөзіңіздің дыбысын жазу үшін. Бас тартсаңыз, кірістірілген сөздер жұмыс істейді. Жазба құрылғыда қалады.
+- **Интернет / Wi-Fi / multicast** — жергілікті ойынды табу және `alshy.local` беті үшін. Бұлтты аккаунт жоқ.
+- **Файл таңдау** — өз аудио файлыңызды сөзге қосу (құрылғыда көшірме).
+- **Мәтінді дауыстау (TTS)** — құрылғының жүйелік дауысы; бізге жіберілмейді.
+
+### 6. Үшінші тараптар
+
+Жарнама, аналитика, төлем жоқ. WhatsApp немесе басқа қосымшаны өзіңіз ашсаңыз, сол қызметтің саясаты қолданылады. Бізге хабарлама көшірмесі келмейді.
+
+### 7. Балалар
+
+Қосымшада балаларға арналған ойындар бар. Біз балалардан жеке дерек жинамаймыз, жарнама көрсетпейміз және профиль жасамаймыз.
+
+### 8. Сақтау және жою
+
+Дерек құрылғыда қалады. Қосымшаны жойсаңыз немесе қосымша деректерін тазаласаңыз, жергілікті сақтау жойылады.
+
+### 9. Өзгерістер
+
+Саясат өзгерсе, осы беттегі күні жаңартылады.
+
+---
+
+## Русский
+
+### 1. Кто мы
+
+«Алшы» — приложение с казахскими вечеринками и обучающими играми: викторина, слова, счёт, буквы, дуэль-шайқас, «Кто шпион?» и мафия.
+
+Оператор: разработчик приложения. Контакт — GitHub Issues: [https://github.com/makosh24/alshyApp/issues](https://github.com/makosh24/alshyApp/issues).
+
+Пакет Android: `kz.alshy.games`.
+
+### 2. Кратко
+
+Мы **не создаём аккаунты**, **не показываем рекламу**, **не подключаем аналитику** и **не отправляем персональные данные на свой сервер**. Прогресс хранится на устройстве. Сетевая игра идёт только в **локальной Wi-Fi сети** и только если вы сами начали хост или присоединились.
+
+### 3. Какие данные обрабатываются
+
+**На устройстве (не уходят к разработчику):**
+
+- имя игрока, если вы его ввели — чтобы показать в лобби;
+- флаги «инструкция уже показана»;
+- свои слова и, по желанию, аудиозапись слова («Сөздер жаңа нұсқа»);
+- копия выбранного аудиофайла в каталоге приложения;
+- сохранённый прогресс кампании, если он ещё есть в памяти приложения.
+
+**В локальной сети (только по вашему действию):**
+
+- имя игрока, состояние раунда, ходы и счёт — между телефонами и браузером телевизора в той же Wi-Fi сети;
+- локальная страница зрителя `http://alshy.local:8080`.
+
+Мы не собираем адрес электронной почты, телефон, геолокацию, платежные данные и идентификаторы рекламы.
+
+### 4. Разрешения
+
+| Разрешение | Зачем |
+|---|---|
+| Микрофон (`RECORD_AUDIO`) | Запись своего слова. Можно отказать: встроенные слова работают. Запись не загружается в интернет. |
+| Интернет, состояние сети, Wi-Fi, multicast | Поиск игры в LAN и страница `alshy.local`. Облачного аккаунта нет. |
+| Доступ к файлам (выбор аудио) | Добавить свой звук к слову. Файл копируется в память приложения. |
+
+Синтез речи (TTS) выполняется системным движком устройства.
+
+### 5. Третьи стороны
+
+Рекламных SDK, платёжных систем и облачной аналитики нет. Если вы сами откроете WhatsApp или другой мессенджер, чтобы отправить локальную ссылку, действуют правила той службы. Копия переписки к нам не попадает.
+
+### 6. Дети
+
+В приложении есть режимы для детей. Мы не собираем персональные данные детей, не профилируем пользователей и не показываем рекламу.
+
+### 7. Хранение и удаление
+
+Данные остаются на устройстве, пока вы не удалите приложение или не очистите его данные в настройках системы. Отдельного «аккаунта у разработчика», который можно удалить удалённо, нет — удалять нечего на нашей стороне.
+
+### 8. Правовая основа
+
+Обработка ограничена работой приложения на вашем устройстве и локальной игрой по вашему запросу. Применяется законодательство Республики Казахстан о персональных данных в части, относящейся к такому локальному использованию.
+
+### 9. Изменения
+
+Если политика изменится, мы обновим дату на этой странице.
+
+---
+
+## English
+
+### 1. Who we are
+
+**Alshy** is a Kazakh-language party and learning game app (quiz, words, math, alphabet, battle, Who’s the Spy?, Mafia). Android package: `kz.alshy.games`.
+
+Operator: the app developer. Contact: [https://github.com/makosh24/alshyApp/issues](https://github.com/makosh24/alshyApp/issues).
+
+### 2. Summary
+
+We do **not** create accounts, show ads, use analytics SDKs, or send personal data to our own servers. Game data stays on the device. Multiplayer works only on the **same local Wi-Fi**, when you host or join.
+
+### 3. Data we process
+
+**On-device only (not sent to the developer):**
+
+- optional player name for LAN lobbies;
+- “tutorial already seen” flags;
+- custom words and optional microphone recordings (“new words” mode);
+- a local copy of an audio file you pick;
+- any leftover campaign save data stored by the app.
+
+**On the local network (only if you start or join a game):**
+
+- player name, round state, moves, and scores between devices and a TV browser on the same Wi-Fi;
+- local spectator page at `http://alshy.local:8080`.
+
+We do not collect email, phone numbers, precise location, payment data, or advertising IDs.
+
+### 4. Permissions
+
+- **Microphone** — optional, only to record a custom word. Deny it and built-in words still work. Recordings stay on the device.
+- **Internet / Wi-Fi / multicast** — LAN game discovery and the local `alshy.local` page. No cloud account server.
+- **File picker** — attach your own audio to a custom word (copied into app storage).
+
+Text-to-speech uses the device’s system engine.
+
+### 5. Third parties
+
+No ads, payments, or analytics SDKs. If you open WhatsApp or another app yourself to share a local URL, that service’s policy applies. We do not receive a copy of the message.
+
+### 6. Children
+
+The app includes kids’ modes. We do not collect children’s personal data, build profiles, or show ads.
+
+### 7. Retention and deletion
+
+Data remains on the device until you uninstall the app or clear its storage. We do not keep a copy on our servers, so there is nothing for us to delete remotely.
+
+### 8. Changes
+
+If this policy changes, we will update the date on this page.
